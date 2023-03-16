@@ -40,11 +40,11 @@ ne sera consulté que si le bot pense avoir rencontré une question d'assistance
 
 ## Le bot ne fonctionne pas ?
 
-Assurez-vous que [Privileged Intents] (https://autocode.com/discord/threads/what-are-discord-privileged-intents-and-how-do-i-enable-them-tutorial-0c3f9977/)
+Assurez-vous que [Privileged Intents](https://autocode.com/discord/threads/what-are-discord-privileged-intents-and-how-do-i-enable-them-tutorial-0c3f9977/)
 sont activées pour votre robot, en particulier l'intention **Contenu du message**.
 Elle est nécessaire pour répondre à l'événement `bot_mention`.
 
 ## Bon code !
 
 Vous êtes intéressé par le fonctionnement de ce robot ? Vous voulez mieux comprendre les vecteurs d'intégration ?
-Consultez le guide [How to build a GPT support Discord bot] (http://autocode.com/guides/how-to-build-a-gpt-support-discord-bot/).
+Consultez le guide [How to build a GPT support Discord bot](http://autocode.com/guides/how-to-build-a-gpt-support-discord-bot/).
